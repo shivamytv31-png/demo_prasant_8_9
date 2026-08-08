@@ -1,0 +1,10 @@
+{
+    'order_id': 'ORD001',
+    'order_date': '2024-12-01',
+    'product_id': 'PROD001',
+    'product_name': 'Laptop',
+    'quantity': 1,
+    'price': 1000,
+    'sales': 1000,
+    'customer_id': 'CUST001'
+  }
